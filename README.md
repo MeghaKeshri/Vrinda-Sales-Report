@@ -1,7 +1,7 @@
-![Badge](https://img.shields.io/badge/Project--14-Data--Analytics-blue)
+![Badge](https://img.shields.io/badge/Project--3rd-Data--Analytics-blue)
 # Vrinda Store Sales💻
-### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
-### This is  my 14th live Project.
+### Hey, I am [**Megha**](https://www.linkedin.com/in/meghakeshri/) 🙂 
+### This is  my 3rd live Project.
 ### I made this project using ![Ms Excel and Ms Word](https://img.shields.io/badge/Excel%20%26-Word%20-blue)
 
 This is my first Data Analytics Project. 
